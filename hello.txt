@@ -1,1 +1,16 @@
 This is just an experiment
+
+I want to add a new line to prove that Git works
+
+
+git add
+git commit
+git push
+
+git init # start new repo
+git status
+git log
+
+git checkout # multiple branches
+git merge
+git revert
